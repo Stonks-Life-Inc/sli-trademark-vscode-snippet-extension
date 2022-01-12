@@ -1,0 +1,20 @@
+{
+    "name": "sli-trademark",
+    "displayName": "Stonks Life Inc. - Trademark",
+    "description": "Put a Stonks Life Inc. trademark as a big ascii art comment",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

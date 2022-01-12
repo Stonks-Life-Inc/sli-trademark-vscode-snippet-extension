@@ -1,0 +1,23 @@
+{
+    "StonksLifeIncTrademark" : {
+        "prefix" : "sli-trademark",
+        "body" : [
+           "$LINE_COMMENT © Stonks Life Inc.™ $CURRENT_YEAR"
+        ],
+        "description" : "Put a Stonks Life Inc. trademark as art comment.",
+    },
+    "StonksLifeIncAsciiTrademark" : {
+        "prefix" : "sli-big-trademark",
+        "body" : [
+           "$LINE_COMMENT    /$$$$$$   /$$                          /$$                     /$$       /$$  /$$$$$$              /$$$$$$                          ",
+           "$LINE_COMMENT   /$$__  $$ | $$                          | $$                    | $$      |__/ /$$__  $$            |_  $$_/                         ",
+           "$LINE_COMMENT  | $$  \\__//$$$$$$    /$$$$$$   /$$$$$$$ | $$   /$$  /$$$$$$$    | $$       /$$| $$  \\__//$$$$$$      | $$   /$$$$$$$   /$$$$$$$     ",
+           "$LINE_COMMENT  |  $$$$$$|_  $$_/   /$$__   $$ | $$__  $$| $$  /$$/ /$$_____/    | $$      | $$| $$$$   /$$__  $$      | $$  | $$__  $$ /$$_____/     ",
+           "$LINE_COMMENT  \\____  $$ | $$    | $$  \\  $$| $$ \\ $$| $$$$$$/ |  $$$$$$     | $$      | $$| $$_/  | $$$$$$$$      | $$  | $$  \\ $$| $$           ",
+           "$LINE_COMMENT  /$$  \\ $$ | $$ /$$| $$    | $$| $$  | $$| $$_  $$  \\____  $$   | $$      | $$| $$    | $$_____/      | $$  | $$   | $$| $$           ",
+           "$LINE_COMMENT  |  $$$$$$/ |  $$$$/|  $$$$$$/  | $$  | $$| $$ \\  $$ /$$$$$$$/   | $$$$$$$$| $$| $$    |  $$$$$$$     /$$$$$$| $$   | $$|  $$$$$$$ /$$ ",
+           "$LINE_COMMENT  \\______/   \\___/   \\______/ |__/  |__/|__/  \\__/|_______/    |________/|__/|__/     \\_______/    |______/|__/  |__/ \\_______/|__/ ",
+        ],
+        "description" : "Put a Stonks Life Inc. trademark as an ascii art comment. (WIP)",
+    }
+}
